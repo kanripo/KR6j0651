@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:07.623781
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 二十八夜叉大軍王名號
 #+PROPERTY: CBETA_ID X02n0183
 #+PROPERTY: ID KR6j0651
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 02, No. 183
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0651_X_001-0839c> 
 #+PROPERTY: JUAN 1
-No.183¶
-
- 二十八夜叉大軍王名號¶
+No. 183¶
+二十八夜叉大軍王名號¶
 三藏法師僧伽婆羅譯抄之¶
 
 佛告阿難汝當受持二十八夜叉大軍王名守護十¶
@@ -80,5 +79,5 @@ No.183¶
   * 婆牖(梁言風)¶
 
 佛為阿難說二十八部夜叉大軍主大威神利益相¶
-已此法名為鎮護國法。¶
+巳此法名為鎮護國法。¶
 二十八夜叉大軍王名號
